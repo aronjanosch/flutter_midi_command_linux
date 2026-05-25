@@ -25,3 +25,4 @@ flutter:
     platforms:
       linux:
         dartPluginClass: FlutterMidiCommandLinux
+        pluginClass: FlutterMidiCommandLinuxPlugin
